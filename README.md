@@ -11,6 +11,8 @@
 
 Develop a game app based on "Three in Row", you need two players for it and every one of them will use `X` or `O` respectively and, whenever there's an empty position, there'll be a "-". The board itself will be a char type 3x3 matrix. The game will end whenever one of the players makes *three-in-a-row* or when there's no more free spaces in the board. The app, for it, will need to ask for every player movements and check if *three-in-a-row* condition is fulfilled and if the position is or no in use.
 
+- [PHP file](php/three-in-row/ex1.php)
+
 ```php
 <?php
 
